@@ -1,0 +1,9 @@
+{
+  "name": "js-katas-wilders-20230502",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
