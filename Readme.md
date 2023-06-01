@@ -22,7 +22,7 @@
 
 ### 1. Get this repo
 
-First, [**clone**](https://github.com/ioayoub/WCS_JSKatas_Wilders20230502/) this repository: you'll then have a copy of this repo under your GitHub account.
+First, [**clone**](https://github.com/ioayoub/WCS_JSKatas_Wilders20230502/) this repository
 
 ```sh
 # download your code locally
