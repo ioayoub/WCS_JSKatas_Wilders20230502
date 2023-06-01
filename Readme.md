@@ -22,13 +22,11 @@
 
 ### 1. Get this repo
 
-First, [**fork**](https://github.com/ioayoub/WCS_JSKatas_Wilders20230502/) this repository: you'll then have a copy of this repo under your GitHub account.
-
-Then go to wherever you store your development work, and run these commands to clone the forked repo (replace `GITHUB_LOGIN` with your login):
+First, [**clone**](https://github.com/ioayoub/WCS_JSKatas_Wilders20230502/) this repository: you'll then have a copy of this repo under your GitHub account.
 
 ```sh
 # download your code locally
-git clone https://github.com/GITHUB_LOGIN/js-katas.git
+git clone https://github.com/ioayoub/git@github.com:ioayoub/WCS_JSKatas_Wilders20230502.git js-katas
 
 # change working directory to the newly cloned repository
 cd js-katas
