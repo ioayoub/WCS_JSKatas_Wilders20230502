@@ -1,4 +1,4 @@
-# JS Katas - ⚠️ TEMPLATE ONLY ⚠️ 
+# JS Katas 
 
 ## Katas
 
@@ -17,6 +17,14 @@
 - [sum-of-odds](./src/array/sum-of-odds/sum-of-odds.js)
 - [inverse-values](./src/array/inverse-values/inverse-values.js)
 - [soccer](./src/array/soccer/soccer.js)
+
+### String
+
+- [count-letters](./src/string/count-letters/count-letters.js)
+- [palindrome](./src/string/palindrome/palindrome.js)
+- [duration](./src/string/duration/duration.js)
+- [abbreviate-names](./src/string/abbreviate-names/abbreviate-names.js)
+- [string-compare](./src/string/string-compare/string-compare.js)
 
 ## Setup
 
